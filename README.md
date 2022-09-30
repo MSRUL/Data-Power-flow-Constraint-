@@ -1,2 +1,3 @@
 # Data-Power-flow-Constraint-
-Uploading soon （in one day）
+The GUROBI, MATPOWER, yamilp is necessary before start.
+The folder named "MAtlab_FUnc" is the sub-function library. The path of the folder and its sub-folder need to be added to the working path of MATLAB
